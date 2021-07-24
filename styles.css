@@ -28,7 +28,7 @@
   border-radius: 3px;
 }
 
-.title{
+.info{
   border-left: 4px solid #39e3ac;
   padding-left: 30px;
   position: relative;
@@ -36,12 +36,12 @@
   margin-left: -2px;
 }
 
-.title_date{
+.info_date{
   color: #39e3ac;
   display: block;
 }
 
-.title_city{
+.info_title{
   font-size: 3rem;
   color: #fff;
 }
