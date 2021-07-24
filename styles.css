@@ -15,13 +15,13 @@
   margin: auto;
 
 }
-.icon{
+.label{
   position: absolute;
   top: 45px;
   right: 47px;
 }
 
-.icon_country{
+.label_country{
   font-size: 0.8rem;
   padding: 2px 13px;
   background: #fff;
